@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/dhinesh-venkat-5251211ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhinesh-venkat-5251211ab" height="30" width="40" /></a>
 <a href="https://instagram.com/dhineshvenkatvenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhineshvenkatvenkat" height="30" width="40" /></a>
 <a href="https://www.behance.net/dhineshvenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dhineshvenkat" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dhineshvenkat07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dhineshvenkat07" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dhineshvenkat07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhineshvenkat07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
